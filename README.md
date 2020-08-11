@@ -2,16 +2,9 @@
 
 
 
-# TP2 Algoritmos 3: {nombre}
+# Titulo
 
-Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA
-
-## Grupo {N}
-
-* **Integrante 1** - [integrante1](https://github.com/integrante1)
-* **Integrante 2** - [integrante2](https://github.com/integrante2)
-* **Integrante 3** - [integrante3](https://github.com/integrante3)
-* **Integrante 4** - [integrante4](https://github.com/integrante4)
+Descripcion: ...
 
 Corrector: **{Corrector}**
 
