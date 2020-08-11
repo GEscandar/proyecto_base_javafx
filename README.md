@@ -6,8 +6,6 @@
 
 Descripcion: ...
 
-Corrector: **{Corrector}**
-
 ### Pre-requisitos
 
 Listado de software/herramientas necesarias para el proyecto
